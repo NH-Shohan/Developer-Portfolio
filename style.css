@@ -29,11 +29,11 @@ span {
   border-radius: 5px;
 }
 .top-banner {
-  background-image: url(/images/top-banner.png);
+  background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
 .dream-big {
-  background-image: url(/images/dream-bg.png);
+  background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -49,7 +49,7 @@ span {
   box-shadow: 10px 10px 40px gray;
 }
 .Experiance-area {
-  background-image: url(/images/exp-bg.png);
+  background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
   background-position: left;
 }
@@ -63,6 +63,6 @@ span {
   border-image: linear-gradient(orange, red);
   border-image-slice: 1;
 }
-footer{
-    text-align: center;
+footer {
+  text-align: center;
 }
